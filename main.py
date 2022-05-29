@@ -7,3 +7,8 @@ programming_dictionary = {
     "Loop": "The action of doing somehting over and over again"
 }
 
+programming_dictionary["List"] = "a data type that takes any lyst of other data type"
+
+
+programming_dictionary["Bug"] = "A moth in your computer"
+print(programming_dictionary)
