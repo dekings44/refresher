@@ -11,4 +11,8 @@ programming_dictionary["List"] = "a data type that takes any lyst of other data 
 
 
 programming_dictionary["Bug"] = "A moth in your computer"
-print(programming_dictionary)
+
+for thing in programming_dictionary:
+
+    print(thing)
+    print(programming_dictionary[thing])
