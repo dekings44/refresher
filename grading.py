@@ -9,7 +9,6 @@ student_scores = {
     'Lawrence': 76
 }
 
-grade = {}
 
 for student in student_scores:
     score = student_scores[student]
